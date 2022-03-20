@@ -34,8 +34,12 @@ public class Student {
     private String phone;
 
     public Object getEmail() {
+        return null;
     }
 
     public Object getPhone() {
+
+        return null;
     }
+
 }
