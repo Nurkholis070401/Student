@@ -33,13 +33,8 @@ public class Student {
     @Column(nullable = false, unique = true)
     private String phone;
 
-    public Object getEmail() {
-        return null;
-    }
-
-    public Object getPhone() {
-
-        return null;
-    }
+    @NotEmpty(message = "Jurusan is required")
+    @Column(nullable = false, unique = true)
+    private String jurusan;
 
 }
