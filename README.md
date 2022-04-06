@@ -1,5 +1,5 @@
-### Student CRUD Apps
-# Things todo list:
+# Student CRUD Apps
+## Things todo list:
 Clone this repository: git clone https://github.com/Nurkholis070401/Student
 Navigate to the folder: cd student
 Change your MySQL Credentials with your own in application.properties
