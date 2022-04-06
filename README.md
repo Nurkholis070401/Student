@@ -6,4 +6,7 @@
 - Run the application: mvn clean spring-boot:run
 - Import the POSTMAN Collection.
 ## image screenshot
+Add students
 ![WhatsApp Image 2022-04-06 at 16 12 52 (1)](https://user-images.githubusercontent.com/100669802/161941511-b72e46a1-bbef-47bc-aacc-8ec8349384b3.jpeg)
+Get all students
+![WhatsApp Image 2022-04-06 at 16 12 52](https://user-images.githubusercontent.com/100669802/161950878-258fbc95-d47a-436b-9e47-3e011dca6cae.jpeg)
